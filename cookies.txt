@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.recarga-facil.net	TRUE	/	FALSE	1999999999	__cfduid	d29f6287877eef29cb3e41e529482aed41615345597
+recarga-facil.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
